@@ -1,1 +1,1 @@
-# ByTheBook_Probabilistic_Machine_Learning_An_Introduction
+# ByTheBook : Probabilistic Machine Learning An Introduction
